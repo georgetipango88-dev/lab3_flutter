@@ -72,6 +72,8 @@ The following database tasks were completed:
 
 ---
 
+---
+
 # Screenshots
 
 ## 1. Flutter Doctor (Part 1)
@@ -86,14 +88,18 @@ The following database tasks were completed:
 
 ![Flutter App Running](screenshots/flutter_app_running.png)
 
-## 4. MySQL Products Table Created
+## 4. Create Database
 
-![Products Table](screenshots/mysql_table_created.png)
+![Create Database](screenshots/create_database.png)
 
-## 5. Insert Sample Products
+## 5. Create Products Table
+
+![Create Table](screenshots/create_table.png)
+
+## 6. Insert Sample Products
 
 ![Insert Products](screenshots/insert_products.png)
 
-## 6. Display Products Query
+## 7. Display All Products
 
-![Select Products](screenshots/select_products.png)
+![All Products](screenshots/select_all_products.png)
