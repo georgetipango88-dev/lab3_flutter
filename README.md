@@ -70,6 +70,30 @@ The following database tasks were completed:
 
 ---
 
-## Author
+---
 
-**George Tipango**
+# Screenshots
+
+## 1. Flutter Doctor (Part 1)
+
+![Flutter Doctor Part 1](screenshots/flutter_doctor_part1.png)
+
+## 2. Flutter Doctor (Part 2)
+
+![Flutter Doctor Part 2](screenshots/flutter_doctor_part2.png)
+
+## 3. Flutter Application Running
+
+![Flutter App Running](screenshots/flutter_app_running.png)
+
+## 4. MySQL Products Table Created
+
+![Products Table](screenshots/mysql_table_created.png)
+
+## 5. Insert Sample Products
+
+![Insert Products](screenshots/insert_products.png)
+
+## 6. Display Products Query
+
+![Select Products](screenshots/select_products.png)
