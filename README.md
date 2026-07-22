@@ -68,11 +68,6 @@ The following database tasks were completed:
 - Git
 - GitHub
 
----
-
----
-
----
 
 # Screenshots
 
