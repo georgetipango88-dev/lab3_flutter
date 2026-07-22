@@ -67,7 +67,12 @@ The following database tasks were completed:
 - Visual Studio Code
 - Git
 - GitHub
-##screenshots
+
+
+
+
+
+# Screenshots
 
 ## 1. Flutter Doctor (Part 1)
 
@@ -79,7 +84,7 @@ The following database tasks were completed:
 
 ## 3. Flutter Application Running
 
-![Flutter App](screenshots/flutter_app_running.png)
+![Flutter App Running](screenshots/flutter_app_running.png)
 
 ## 4. Create Database
 
